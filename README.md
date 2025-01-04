@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Sentosa</h1>
-- 🌱 I’m currently learning: **R, Spark**
-- 📫 How to reach me: **jrdn.sentosa@gmail.com**
+- 🌱 I’m currently learning: R & Spark
+
+- 📫 How to reach me: jrdn.sentosa@gmail.com
 
 <h3 align="left">🚀Connect with me:</h3>
 <p align="left">
