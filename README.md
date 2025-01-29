@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Sentosa</h1>
 
-- 🌱 I’m currently learning: R & Spark
+- 🌱 I’m currently learning: R & SQL
 
 - 📫 How to reach me: jrdn.sentosa@gmail.com
 
