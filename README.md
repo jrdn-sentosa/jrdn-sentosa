@@ -17,13 +17,13 @@ I'm a driven student passionate about merging data science, machine learning, an
 
 ## 📂 Featured Projects
 
-### 🔧 [OmniMouse](https://github.com/VazirYaNazir/HooHacks2025-OmniMouse)
-> 📱 Android app that turns your phone into a gyroscope-controlled PC mouse  
-Tech: Java, Android Studio, Flask, PyAutoGUI, Retrofit  
+### 📊 [Geographic Correlations to Executions](https://github.com/jrdn-sentosa/Geographic_Correlations_to_Executions)  
+> 📍 Data science analysis on execution patterns across regions  
+Tech: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
-- Real-time phone-to-desktop communication for intuitive cursor control  
-- Backend server using Flask and PyAutoGUI for gesture execution  
-
+- Built classification models with up to 0.78 precision  
+- Created data visualizations and metrics evaluation to reveal geographic trends
+  
 ---
 
 ### 💰 [PDFinance](https://github.com/VazirYaNazir/HackNCState2025-PDFinance)  
@@ -35,13 +35,13 @@ Tech: Python, SQLite3, PyPDF2, Tkinter, LangChain, OpenAI
 
 ---
 
-### 📊 [Geographic Correlations to Executions](https://github.com/jrdn-sentosa/Geographic_Correlations_to_Executions)  
-> 📍 Data science analysis on execution patterns across regions  
-Tech: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+### 🔧 [OmniMouse](https://github.com/VazirYaNazir/HooHacks2025-OmniMouse)
+> 📱 Android app that turns your phone into a gyroscope-controlled PC mouse  
+Tech: Java, Android Studio, Flask, PyAutoGUI, Retrofit  
 
-- Built classification models with up to 0.78 precision  
-- Created data visualizations and metrics evaluation to reveal geographic trends  
-
+- Real-time phone-to-desktop communication for intuitive cursor control  
+- Backend server using Flask and PyAutoGUI for gesture execution
+  
 ---
 
 ## 📌 Get in Touch
